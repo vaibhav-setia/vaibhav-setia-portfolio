@@ -12,7 +12,7 @@ const achievements = [
         'description': 'Presented and published paper Psychometric Assessment of Teacher Mindset using KNN-SVM in IEEE Xplore.'
     },
     {
-        'title': 'Winner - 1st Position',
+        'title': 'Winner Global Hackathon - 1st Position',
         'time': 'August 2021',
         'place': ' JP Morgan Chase',
         'description': 'Led a 4-person team to automate release deployment steps to production from Git, achieving 1st position.'

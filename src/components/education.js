@@ -58,6 +58,13 @@ class Education extends Component {
                                                     <p>I did my undergraduate from <strong><a target={"_blank"}
                                                                                           rel="noopener noreferrer"
                                                                                           href={"https://pec.ac.in/"}>Punjab Engineering College, Chandigarh, India</a></strong> with a GPA of <strong> 3.7/4</strong>.</p>
+                                                <p>During these years, I have undertaken various courses to broaden my domain : </p>
+                                                    <ul>
+                                                        <li>Discrete Structures</li>
+                                                        <li>Big Data using Hadoop</li>
+                                                        <li>Operating Systems</li>
+                                                        <li>Object Oriented Programming</li>
+                                                    </ul>
                                                 </div>
                                             </div>
                                         </div>

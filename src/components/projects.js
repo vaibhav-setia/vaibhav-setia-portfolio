@@ -20,7 +20,7 @@ export default class Projects extends Component {
                                     <div key={project.title} className="col-md-6 animate-box"
                                          data-animate-effect="fadeInRight">
                                         <div className="project"
-                                             style={{backgroundImage: `url(/images/${project.image})`}}>
+                                             style={{backgroundImage: `url(./images/${project.image})`}}>
                                             <div className="desc">
                                                 <div className="con">
                                                     <h2>{project.title}</h2>

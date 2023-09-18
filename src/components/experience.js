@@ -10,7 +10,7 @@ class Experience extends Component {
                 <div className="timeline-entry-inner">
                     <div className="timeline-icon color-3">
                         {/* <i className="icon-pen2"/> */}
-                        <img src={`../images/${icon}`} alt='mySvgImage' height={w} width={h}/>
+                        <img src={`./images/${icon}`} alt='mySvgImage' height={w} width={h}/>
                         {/* <img src={require(`../${icon}`).default} alt='mySvgImage' height={20} width={20}/> */}
                     </div>
                     <div className="timeline-label">

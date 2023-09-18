@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vaibhav-setia-portfolio/static/css/main.7a7d29af.css",
+    "main.js": "/vaibhav-setia-portfolio/static/js/main.10487daf.js",
+    "index.html": "/vaibhav-setia-portfolio/index.html",
+    "main.7a7d29af.css.map": "/vaibhav-setia-portfolio/static/css/main.7a7d29af.css.map",
+    "main.10487daf.js.map": "/vaibhav-setia-portfolio/static/js/main.10487daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.10487daf.js"
+  ]
+}

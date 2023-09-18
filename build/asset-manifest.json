@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vaibhav-setia-portfolio/static/css/main.7a7d29af.css",
-    "main.js": "/vaibhav-setia-portfolio/static/js/main.3f080d7e.js",
-    "index.html": "/vaibhav-setia-portfolio/index.html",
-    "main.7a7d29af.css.map": "/vaibhav-setia-portfolio/static/css/main.7a7d29af.css.map",
-    "main.3f080d7e.js.map": "/vaibhav-setia-portfolio/static/js/main.3f080d7e.js.map"
+    "main.css": "/vaibhavsetia.info/static/css/main.7a7d29af.css",
+    "main.js": "/vaibhavsetia.info/static/js/main.3f080d7e.js",
+    "index.html": "/vaibhavsetia.info/index.html",
+    "main.7a7d29af.css.map": "/vaibhavsetia.info/static/css/main.7a7d29af.css.map",
+    "main.3f080d7e.js.map": "/vaibhavsetia.info/static/js/main.3f080d7e.js.map"
   },
   "entrypoints": [
     "static/css/main.7a7d29af.css",

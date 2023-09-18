@@ -17,7 +17,7 @@ export default class Introduction extends Component {
                                                 <div className="desc">
                                                     <h1>Hi! <br/>I'm Vaibhav</h1>
                                                     <p><a className="btn btn-primary btn-learn"
-                                                          href={'/files/vaibhav_setia_resume.pdf'} target="_blank"
+                                                          href={'/files/Vaibhav_Setia_Resume.pdf'} target="_blank"
                                                           rel="noopener noreferrer">View Resume<i
                                                         className="icon-download4"/></a></p>
                                                 </div>

@@ -6,7 +6,7 @@ const achievements = [
         'description': 'Published paper Image Deblurring using Wiener Filtering and Siamese Neural Network in iJES journal.'
     },
     {
-        'title': 'Publish Paper in IEEE Xplore',
+        'title': 'Publish Reserach Paper in IEEE Xplore',
         'time': 'November 2021',
         'place': 'IEEE Conference',
         'description': 'Presented and published paper Psychometric Assessment of Teacher Mindset using KNN-SVM in IEEE Xplore.'

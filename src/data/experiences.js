@@ -50,32 +50,33 @@ const experiences = [
         w : 36,
         h : 36
     },
+    // {
+    //     'title': 'Software Developer II at JP Morgan Chase, India',
+    //     'duration': 'Jan 2022 - August 2022',
+    //     'icon' :'jp.png',
+    //     'brief': 'I was a part of the Automatic Speech Recognition Team under the Voice Intelligence Division of Samsung Research Institute, Bangalore. During this, I learned about various techniques for working on Text data for a Machine Learning Model. I was responsible for:',
+    //     'desc': ['Preprocessing of the raw data to get properly cleaned, labeled data to feed as input to the model',
+    //         'Splitting of the dataset into Train, Test and Validation sets.',
+    //         'Deciding the type and structure of the model to be used for the problem.',
+    //         'Building and training the model.'
+    //     ],
+    //     'extra': 'I got an opportunity to write a Research paper as well during this time, which got the approval from Voice Division but unfortunately didn\'t get selected for the next round.'
+    //     ,
+    //     w : 38,
+    //     h : 38
+    // },
     {
         'title': 'Software Developer II at JP Morgan Chase, India',
-        'duration': 'Jan 2022 - August 2022',
+        'duration': 'August 2020 - December 2022',
         'icon' :'jp.png',
-        'brief': 'I was a part of the Automatic Speech Recognition Team under the Voice Intelligence Division of Samsung Research Institute, Bangalore. During this, I learned about various techniques for working on Text data for a Machine Learning Model. I was responsible for:',
-        'desc': ['Preprocessing of the raw data to get properly cleaned, labeled data to feed as input to the model',
-            'Splitting of the dataset into Train, Test and Validation sets.',
-            'Deciding the type and structure of the model to be used for the problem.',
-            'Building and training the model.'
+        'brief': 'I was a part of the Client Relationship Management Team under the Corporate and Investment Division of JP Morgan CHase, Bangalore. During my time, I learned about various techniques for building scalable microservice architecture. I was responsible for:',
+        'desc': ['Migrating legacy SQL databases to ElasticSearch indexes using GraphQL, SpringBoot and Kubernetes.',
+            'Achieving 60% reduction in search latency by optimizing ElasticSearch queries and indexing.',
+            'Redesigning various legacy client-facing microservices and Java REST APIs using various design patterns, making them more modular and reusable which reduced response time by over 90% and increased user interaction by 20%.',
+            'Designing & developing 3 microservices using Spring Boot along with Netflix OSS, which met all the required NFRs.',
+            'Building an interactive interface in ReactJS and Redux to automate CI/CD pipeline creation using Jenkins which ensured smooth deployments and reduce manual effort by 80%.'
         ],
-        'extra': 'I got an opportunity to write a Research paper as well during this time, which got the approval from Voice Division but unfortunately didn\'t get selected for the next round.'
-        ,
-        w : 38,
-        h : 38
-    },
-    {
-        'title': 'Software Developer I at JP Morgan Chase, India',
-        'duration': 'August 2020 - December 2021',
-        'icon' :'jp.png',
-        'brief': 'I was a part of the Client Relationship Management Team under the Corporate and Investment Division of JP Morgan CHase, Bangalore. During this, I learned about various techniques for building scalable microservice architecture. I was responsible for:',
-        'desc': ['Preprocessing of the raw data to get properly cleaned, labeled data to feed as input to the model',
-            'Splitting of the dataset into Train, Test and Validation sets.',
-            'Deciding the type and structure of the model to be used for the problem.',
-            'Building and training the model.'
-        ],
-        'extra': 'I got an opportunity to write a Research paper as well during this time, which got the approval from Voice Division but unfortunately didn\'t get selected for the next round.',
+        'extra': ' I also got recognised in Annual JP Morgan Achievement Scroll for exemplary contribution to work as a new hire.',
         w : 38,
         h : 38
     },
@@ -85,9 +86,20 @@ const experiences = [
         'icon' :'jp.png',
         'brief': 'I was a part of the Forex Trading Team under the Corporate and Investment Division of JP Morgan Chase, New York. During this, I learned about writing time sensitive cron jobs and python scripts. I was responsible for:',
         'desc': ['Engineering a Python GUI platform for traders to automate stock report generation, eliminating delivery time by 95%.',
-            '• Optimizing the NoSQL queries to fix trading logic bugs, thus bringing down per job re-run costs from 100$ to 25$.'
+            'Optimizing the NoSQL queries to fix trading logic bugs, thus bringing down per job re-run costs from 100$ to 25$.'
         ],
-        'extra': 'I got an opportunity to learn about various financial models and how different stock options work.',
+        'extra': 'I also got an opportunity to learn about various financial models and how different stock options work.',
+        w : 38,
+        h : 38
+    },{
+        'title': 'Research Intern at IIT Roorkee, India',
+        'duration': 'May 2018 - July 2018',
+        'icon' :'iitr.png',
+        'brief': 'I worked as a research assistant under Prof. Brajesh Kumar Kaushik, working with Indian army to help deblur video stills due to heat distortion. During my brief time I was able to: ',
+        'desc': ['Deblur images by combining blind and deblind convolution in frequency domain using OpenCV and CPP.',
+            'Denoised images filled with uniform noise without calculating the Signal to Noise Ratio (SNR).'
+        ],
+        'extra': 'I also got a chance to explore different ML models built to find the hidden noise ratios.',
         w : 38,
         h : 38
     },

@@ -27,28 +27,28 @@ const experiences = [
     {
         'title': 'Teaching Assistant for CS3200 Database Systems at Northeastern University',
         'duration': 'May 2023 - June 2023',
-        'icon' :'neu.png',
+        'icon' :'nuhusky.png',
         'brief': 'It was a great experience while mentoring a group of students and guiding them through solving various problems. It was bidirectional learning as I also learned about more efficient ways to code, more ways to solve a single problem. As a Teaching Assistant, my responsibilities included:',
         'desc': ['Taking doubt sessions to solve various doubts related to coding problems.',
             'Debugging the sql codes and helping students to find the proper solutions.',
             'Helping students in their assignments and projects'
         ],
         'extra': null,
-        w : 40,
-        h : 40
+        w : 36,
+        h : 36
     },
     {
         'title': 'Teaching Assistant for CS6200 Information Retrieval at Northeastern University',
         'duration': 'January 2023 - April 2023',
-        'icon' :'neu.png',
+        'icon' :'nuhusky.png',
         'brief': 'I had the chance to utilise my java and elastic search skills and developer various demos & teachings for Information Retrieval. My responsibilities included:',
         'desc': ['Utilized strong organizational and analytical skills to assist the instructor in grading assignments, exams, and projects for a large class of 80+ students in CS 6200 Information Retrieval.',
             'Demonstrated effective leadership and communication skills by leading weekly review sessions and office hours, providing additional support and guidance to students to improve their understanding of course material.',
             'Provided constructive feedback to students on their progress and performance in the course, utilizing strong interpersonal skills to facilitate productive and meaningful discussions.'
         ],
         'extra': null,
-        w : 80,
-        h : 80
+        w : 36,
+        h : 36
     },
     {
         'title': 'Software Developer II at JP Morgan Chase, India',
@@ -62,8 +62,8 @@ const experiences = [
         ],
         'extra': 'I got an opportunity to write a Research paper as well during this time, which got the approval from Voice Division but unfortunately didn\'t get selected for the next round.'
         ,
-        w : 20,
-        h : 20
+        w : 38,
+        h : 38
     },
     {
         'title': 'Software Developer I at JP Morgan Chase, India',
@@ -76,8 +76,8 @@ const experiences = [
             'Building and training the model.'
         ],
         'extra': 'I got an opportunity to write a Research paper as well during this time, which got the approval from Voice Division but unfortunately didn\'t get selected for the next round.',
-        w : 40,
-        h : 40
+        w : 38,
+        h : 38
     },
     {
         'title': 'Software Developer Intern at JP Morgan Chase, India',
@@ -88,9 +88,10 @@ const experiences = [
             '• Optimizing the NoSQL queries to fix trading logic bugs, thus bringing down per job re-run costs from 100$ to 25$.'
         ],
         'extra': 'I got an opportunity to learn about various financial models and how different stock options work.',
-        w : 20,
-        h : 20
+        w : 38,
+        h : 38
     },
+    
 ];
 
 export default experiences;

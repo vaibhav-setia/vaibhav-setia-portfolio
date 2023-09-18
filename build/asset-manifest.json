@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vaibhav-setia-portfolio/static/css/main.7a7d29af.css",
-    "main.js": "/vaibhav-setia-portfolio/static/js/main.d70b8e8d.js",
+    "main.js": "/vaibhav-setia-portfolio/static/js/main.fe8a1fb2.js",
     "index.html": "/vaibhav-setia-portfolio/index.html",
     "main.7a7d29af.css.map": "/vaibhav-setia-portfolio/static/css/main.7a7d29af.css.map",
-    "main.d70b8e8d.js.map": "/vaibhav-setia-portfolio/static/js/main.d70b8e8d.js.map"
+    "main.fe8a1fb2.js.map": "/vaibhav-setia-portfolio/static/js/main.fe8a1fb2.js.map"
   },
   "entrypoints": [
     "static/css/main.7a7d29af.css",
-    "static/js/main.d70b8e8d.js"
+    "static/js/main.fe8a1fb2.js"
   ]
 }

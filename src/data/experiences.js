@@ -1,9 +1,9 @@
 const experiences = [
     {
-        'title': 'Frontend Developer Co-op at Amazon Robotics',
+        'title': 'Frontend Developer at Amazon Robotics',
         'duration': 'September 2023 - Present',
         'icon' :'Amazon_icon.svg',
-        'brief': 'I am currently working as a Frontend Developer Co-op at Amazon Robotics. I am working on the development of a web application for the simulation and execution team',
+        'brief': 'I am currently working as a Software Developer at Amazon Robotics. I am working on the development of a web application for the simulation and execution team',
         'desc': [],
         // ['Writing, & testing various React components, maintaining a 98% code coverage rate, improving software reliability.',
         //     'Collaborating with AWS-based tools to automate execution and evaluation of discrete-event simulation experiments.'
@@ -13,7 +13,7 @@ const experiences = [
         h : 20
     },
     {
-        'title': 'Software Engineering Intern at Manus Robotics',
+        'title': 'Software Engineer at Manus Robotics',
         'duration': 'June 2023 - August 2023',
         'icon' :'manus.png',
         'brief': 'I was part of software team at Manus Robotics responsible for gamification of demos and integrating a developer friendly sdk with the hardware sensors. I was responsible for:',

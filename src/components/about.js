@@ -15,7 +15,7 @@ export default class About extends Component {
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p><strong>Hi 👋  I'm Vaibhav Setia</strong></p>
                                             <p>
-                                            I am currently a Frontend Intern at <b>Amazon Robotics</b>, based out of Boston. After working as a software engineer at <b>JP Morgan Chase </b>for <b>2</b> years, I decided to reinvent my career path and pursue a masters degree in computer science from <b>Northeastern University</b> in 2022. 
+                                            I am currently a Software Developer at <b>Amazon Robotics</b>, based out of Boston. After working as a software engineer at <b>JP Morgan Chase </b>for <b>3</b> years, I decided to reinvent my career path and pursue a masters degree in computer science from <b>Northeastern University</b> in 2022.
                                             I found my passion for learning computer sciences at the age of 16 and have been programming ever since.
                                               Being able to effectively teach myself is something I am most proud of about myself.
                                               Ive dedicated countless hours to learning and expanding my passion further. 
